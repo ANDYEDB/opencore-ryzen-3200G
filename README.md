@@ -7,10 +7,10 @@ NOTE:
 
 My BUILD:
 
-1. AMD Ryzen 3 3200G
-2. ASUS EX-A320M GAMING Motherboard
-3. Network Card: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
-4. Audio Codec: RealTek ALC887
-5. PS/2 Keyboard
+- AMD Ryzen 3 3200G
+- ASUS EX-A320M GAMING Motherboard
+- Network Card: RealTek Semiconductor RTL8168/8111 PCI-E Gigabit Ethernet NIC
+- Audio Codec: RealTek ALC887
+- PS/2 Keyboard
 
 
